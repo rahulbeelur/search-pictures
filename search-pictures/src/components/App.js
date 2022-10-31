@@ -1,8 +1,11 @@
 import './App.css';
+import SearchBar from './SearchBar';
 
 function App() {
   return (
-    <div>Hello World!</div>
+    <div className='ui container' style={{marginTop: '10px'}}>
+      <SearchBar />
+    </div>
   );
 }
 
