@@ -13,7 +13,7 @@ class SearchBar extends React.Component {
             <div className="ui segment" style={{ backgroundColor: '#ECFFDC'}}>
                 <form onSubmit={this.onFormSubmit} className="ui form">
                     <div className="field">
-                        <label>Search for anything</label>
+                        <label>Search images</label>
                         <input
                             type="text"
                             value={this.state.term}
