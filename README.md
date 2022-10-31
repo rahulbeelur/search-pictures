@@ -1,3 +1,3 @@
 # search-pictures
 
-github pages hosted url - https://rahulbeelur.github.io/search-pictures
+GitHub pages hosted url - https://rahulbeelur.github.io/search-pictures
